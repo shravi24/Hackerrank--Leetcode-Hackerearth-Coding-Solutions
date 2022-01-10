@@ -3,7 +3,7 @@ In this challenge, I am going to solve the coding on competitive coding platform
 
 Happy Coding !!
 
-<img src="https://devblogs.microsoft.com/visualstudio/wp-content/uploads/sites/4/2019/02/bulk.gen_.getter.setter.gif" height =400>
+<img src="https://i.imgur.com/3fAd0w8.gif" height =400>
 
 </br>
 
