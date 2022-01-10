@@ -1,5 +1,5 @@
 # Challenge : Code Everyday 
-In this challenge, I am going to solve the coding on competitive coding platforms
+In this challenge, I am going to solve the coding problems on competitive coding platforms
 
 Happy Coding !!
 
